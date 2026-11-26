@@ -73,7 +73,7 @@ def iniciar_gui():
     ctk.set_default_color_theme("blue")
 
     ventana = ctk.CTk()
-    ventana.title("Sistema de Órdenes de Trabajo - IMPOFER")
+    ventana.title("Sistema de Órdenes de Trabajo")
     ventana.geometry("1200x700")
 
     frame_registro = ctk.CTkFrame(master=ventana)
