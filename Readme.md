@@ -1,4 +1,4 @@
-# Sistema de Órdenes de Mantenimiento - IMPOFER
+# Sistema de Órdenes de Mantenimiento 
 
 Este es un sistema de gestión de órdenes de mantenimiento desarrollado en Python, utilizando **CustomTkinter** para la interfaz gráfica. Permite la creación, actualización, búsqueda y seguimiento de órdenes de trabajo de manera organizada y profesional.
 
